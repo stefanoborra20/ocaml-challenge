@@ -12,7 +12,7 @@ Read the [instructions](tutorials/setup-git.md) to keep your solutions to the ex
 - [x] [Logical Xor](1/xor/README.md)  
 - [ ] [Multiplexer](1/mux/README.md)  
 - [x] [Absolute value](1/absolute-value/README.md)  
-- [ ] [Max of two natural numbers](1/maxnat/README.md)  
+- [x] [Max of two natural numbers](1/maxnat/README.md)  
 - [ ] [Weekly lectures](1/weekly-lectures/README.md)  
 - [ ] [Blood donations](1/blood-donations/README.md)  
 - [ ] [Parrot trouble](1/parrot-trouble/README.md)  
