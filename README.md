@@ -10,7 +10,7 @@ Read the [instructions](tutorials/setup-git.md) to keep your solutions to the ex
 
 - [x] [Logical Nand](1/nand/README.md)  
 - [x] [Logical Xor](1/xor/README.md)  
-- [ ] [Multiplexer](1/mux/README.md)  
+- [x] [Multiplexer](1/mux/README.md)  
 - [x] [Absolute value](1/absolute-value/README.md)  
 - [x] [Max of two natural numbers](1/maxnat/README.md)  
 - [ ] [Weekly lectures](1/weekly-lectures/README.md)  
