@@ -13,7 +13,7 @@ Read the [instructions](tutorials/setup-git.md) to keep your solutions to the ex
 - [x] [Multiplexer](1/mux/README.md)  
 - [x] [Absolute value](1/absolute-value/README.md)  
 - [x] [Max of two natural numbers](1/maxnat/README.md)  
-- [ ] [Weekly lectures](1/weekly-lectures/README.md)  
+- [x] [Weekly lectures](1/weekly-lectures/README.md)  
 - [ ] [Blood donations](1/blood-donations/README.md)  
 - [ ] [Parrot trouble](1/parrot-trouble/README.md)  
 - [ ] [Increment optional value](1/increment-option/README.md)  
