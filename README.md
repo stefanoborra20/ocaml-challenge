@@ -34,11 +34,11 @@ Read the [instructions](tutorials/setup-git.md) to keep your solutions to the ex
 
 ## 🟡 Level 2
 
-- [ ] [Function composition](2/compose/README.md)  
-- [ ] [Flip arguments](2/flip-curry/README.md)  
+- [x] [Function composition](2/compose/README.md)  
+- [x] [Flip arguments](2/flip-curry/README.md)  
 - [ ] [Both true](2/both-true/README.md)  
-- [ ] [Pipe operator](2/pipeline/README.md)  
-- [ ] [Option map](2/option-map/README.md)  
+- [x] [Pipe operator](2/pipeline/README.md)  
+- [x] [Option map](2/option-map/README.md)  
 - [ ] [Optional application](2/option-seq/README.md)  
 - [ ] [Alternative](2/alternative/README.md)  
 - [ ] [Conditional application](2/apply-if/README.md)  
