@@ -58,9 +58,9 @@ Read the [instructions](tutorials/setup-git.md) to keep your solutions to the ex
 
 ## 🟠 Level 3
 
-- [ ] [Sum range](3/sumrange/README.md)  
-- [ ] [Has one](3/has-one/README.md)  
-- [ ] [Count zeros of a function](3/countzero/README.md)  
+- [x] [Sum range](3/sumrange/README.md)  
+- [x] [Has one](3/has-one/README.md)  
+- [x] [Count zeros of a function](3/countzero/README.md)  
 - [ ] [Min and max of a function](3/minmaxfun/README.md)  
 - [ ] [Reverse a list](3/rev-list/README.md)  
 - [ ] [String of list](3/string-of-list/README.md)  
